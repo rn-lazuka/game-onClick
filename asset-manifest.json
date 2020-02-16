@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/game-onClick/static/css/main.3fafe0ae.chunk.css",
+    "main.js": "/game-onClick/static/js/main.372245ab.chunk.js",
+    "main.js.map": "/game-onClick/static/js/main.372245ab.chunk.js.map",
+    "runtime-main.js": "/game-onClick/static/js/runtime-main.5a42eaba.js",
+    "runtime-main.js.map": "/game-onClick/static/js/runtime-main.5a42eaba.js.map",
+    "static/js/2.6433289a.chunk.js": "/game-onClick/static/js/2.6433289a.chunk.js",
+    "static/js/2.6433289a.chunk.js.map": "/game-onClick/static/js/2.6433289a.chunk.js.map",
+    "index.html": "/game-onClick/index.html",
+    "precache-manifest.51495d1509af4de68184e922ce91e893.js": "/game-onClick/precache-manifest.51495d1509af4de68184e922ce91e893.js",
+    "service-worker.js": "/game-onClick/service-worker.js",
+    "static/css/main.3fafe0ae.chunk.css.map": "/game-onClick/static/css/main.3fafe0ae.chunk.css.map",
+    "static/js/2.6433289a.chunk.js.LICENSE": "/game-onClick/static/js/2.6433289a.chunk.js.LICENSE",
+    "static/media/dog.mp3": "/game-onClick/static/media/dog.75fa68d4.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a42eaba.js",
+    "static/js/2.6433289a.chunk.js",
+    "static/css/main.3fafe0ae.chunk.css",
+    "static/js/main.372245ab.chunk.js"
+  ]
+}
